@@ -215,11 +215,11 @@ nav li:nth-last-child(1)::after {
   }
   nav {
     position: absolute;
-    background: #e5e5e7;
+    background: #f7f7ff;
     width: 80%;
     height: 100vh;
     top: 0;
-    right: -500px;
+    right: -10px;
     flex-direction: column;
     row-gap: 2rem;
     align-items: center;
@@ -229,12 +229,9 @@ nav li:nth-last-child(1)::after {
     transition: 0.8s ease-in-out;
   }
   nav li {
-    /* color: white; */
+    color: rgb(26, 25, 25);
     font-weight: 600;
     font-size: 1.2rem;
-  }
-  nav li:nth-last-child(1) {
-    display: none;
   }
   #bars {
     display: block;
