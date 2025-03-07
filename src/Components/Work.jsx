@@ -35,7 +35,7 @@ const Work = () => {
             </p>
             <div className="Tools">
               {webTools.map((img) => (
-                <img src={img} />
+                <img src={img} alt="webImg"/>
               ))}
             </div>
           </div>
@@ -56,7 +56,7 @@ const Work = () => {
             </p>
             <div className="Tools">
               {appTools.map((img) => (
-                <img src={img} />
+                <img src={img} alt="app"/>
               ))}
             </div>
           </div>
