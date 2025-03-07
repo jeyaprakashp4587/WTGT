@@ -58,7 +58,7 @@ export const Home = () => {
       {/* home header */}
       <div className="home-header container m-auto" id="home-header">
         <div className="logo">
-          <img src={logo} />
+          <img src={logo} alt="her"/>
         </div>
         {/*  */}
         <i
