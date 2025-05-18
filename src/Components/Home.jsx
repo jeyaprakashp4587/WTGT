@@ -2,7 +2,7 @@
 
 import React, { useEffect, useRef } from "react";
 import "./home.css";
-import logo from "../assets/WTGt logo.png";
+import logo from "../assets/Rynex.png";
 
 export const Home = () => {
   // dynamic letter

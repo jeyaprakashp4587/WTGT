@@ -17,7 +17,7 @@ const Footer = () => {
             border: "0px solid red",
           }}
         >
-          <h2>WTGT</h2>
+          <h2>Rynex</h2>
           <p>An Software Solution</p>
           <div className="footer-icons"></div>
         </div>
@@ -61,7 +61,7 @@ const Footer = () => {
           </div>
           <div style={{ display: "flex", alignItems: "center" }}>
             <i class="fa fa-mail-forward" aria-hidden="true"></i>
-            wtgtsolution@gmail.com
+            Rynex@gmail.com
           </div>
         </div>
       </div>
